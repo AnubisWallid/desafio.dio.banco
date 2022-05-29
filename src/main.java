@@ -8,8 +8,11 @@ public class main {
         cCorrente.gerarExtrato();
         cPoupanca.gerarExtrato();
         cCorrente.setChequeEspecial(100d);
-        cCorrente.depositar(200d);
-        cPoupanca.depositar(1500d);
+        cCorrente.depositar(100d);
+        cPoupanca.depositar(200d);
+        cPoupanca.sacar(190.50);
+        cCorrente.gerarExtrato();
+        cPoupanca.gerarExtrato();
 
 
 
