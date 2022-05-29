@@ -1,6 +1,6 @@
 # Projeto de Abstração Bancaria com JAVA :coffee:
 
-## Dio Innovation One - DIO
+## Digital Innovation One - DIO
 
 Projeto para demostração dos pilares da Orientação a Objetos
 
